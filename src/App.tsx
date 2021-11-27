@@ -12,7 +12,7 @@ export default function App() {
       children: [
         { index: true, element: <Home /> },
         {
-          path: '/courses1',
+          path: '/courses',
           element: <Courses />,
           children: [
             { index: true, element: <CoursesIndex /> },
