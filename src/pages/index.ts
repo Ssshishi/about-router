@@ -1,0 +1,7 @@
+export { default as Course } from './course'
+export { default as CourseIndex } from './courseIndex'
+export { default as Courses } from './courses'
+export { default as Home } from './home'
+export { default as Layout } from './layout'
+export { default as NoMatch } from './noMatch'
+export { default as Other } from './other'
